@@ -16,13 +16,13 @@ function App() {
       {
         title: task.title,
         id: tasks.length,
-        description: task.description
+        description: task.description,
       },
     ]);
   }
 
   function deleteTask(taskId) {
-    setTasks(tasks.filter(task => task.id !== taskId))
+    setTasks(tasks.filter((task) => task.id !== taskId));
   }
 
   return (
