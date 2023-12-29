@@ -1,6 +1,6 @@
 # Tasks Manager
 
-Welcome to the React Tasks App – your personal task manager for efficient organization and productivity.
+Welcome to the React Tasks App – your personal task manager for efficient organization and productivity. [Try me](https://emacaz.github.io/react-tasks-app/)
 
 
 ## Technologies Used
